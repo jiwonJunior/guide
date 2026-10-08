@@ -26,7 +26,7 @@ Policy 메뉴에는
 
 * 시스템에서 제공하는 기본 라이선스 정책 3가지입니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 
@@ -72,7 +72,7 @@ Policy 메뉴에는
 1. 해당 라이선스 정책 단계에 속성을 _**드래그 앤 드롭**_&#xC73C;로 추가할 수 있습니다.
 2. 속성에 해당하면 해당 라이선스 정책 단계가 됩니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 
@@ -92,7 +92,7 @@ Policy 메뉴에는
 
 이 정책의 시스템에서 제공하는 기본 정책으로 유일하게 정책을 수정 했을 때 _**\[Reset]**_ 버튼을 통해서 기본 값으로 초기화할 수 있습니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 
@@ -102,10 +102,10 @@ Policy 메뉴에는
 
 수정이 필요한 라이선스 정책 상세 화면에서 \[Edit License Policy] 버튼 클릭해서 정책을 수정할 수 있습니다.
 
-* Role에서 _**License Policy Edit**_ 권한이 있는 계정의 사용자만이 라이선스 정책 수정할 수 있습니다.([권한 설정 방법](1q-role.md))
+* Role에서 _**License Policy Edit**_ 권한이 있는 계정의 사용자만이 라이선스 정책 수정할 수 있습니다.([권한 설정 방법](role.md))
 * 사용 중인 라이선스 정책이라면 삭제 불가능 합니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (16).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 
@@ -119,7 +119,7 @@ Policy 메뉴에는
 * **\[Import, Export]**&#xC73C;로 취약점 정책 가져오고, 내보내기 할 수 있습니다.
 * **Importance Level**와  **Severity** 항목과 결합해서 내부 코드 _**Vulnerability Grade**_&#xB97C; 생성합니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (12).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 
@@ -150,7 +150,7 @@ Policy 메뉴에는
 
 수정이 필요한 취약점 정책을 아이콘을 클릭해서 수정할 수 있습니다.
 
-* Role에서 _**Vulnerbility Policy Edit**_ 권한이 있는 계정의 사용자만이 취약점 정책 수정할 수 있습니다.([권한 설정 방법](1q-role.md))
+* Role에서 _**Vulnerbility Policy Edit**_ 권한이 있는 계정의 사용자만이 취약점 정책 수정할 수 있습니다.([권한 설정 방법](role.md))
 * **\[Add Vulnerability Level]** 버튼으로 취약점 정책 추가할 수 있습니다.
 * **\[Reset]** 버튼을 클릭 하면 취약점 정책 기본 값으로 초기화 됩니다.
 * 사용 중인  취약점 단계라면 삭제 불가능합니다.
@@ -164,13 +164,13 @@ Policy 메뉴에는
 * 시스템에서 제공하는 기본 분류 정보입니다.
 * Vulnerability Policy에서 _**Importance Level**_&#xB85C; 표시되고, _**Severity**_ 항목과 결합해서 내부 코드 _**Vulnerability Grade**_&#xB97C; 생성하는데 사용됩니다.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **\[Add Asset Classification]** 버튼을 클릭해서 아래의 화면에서 자산 분류를 추가합니다. 필수 값인 자산 분류 이름을  작성하고 자산분류 단계를 선택합니다. 자산 분류 레벨은 4가지이며, 선택해서 저장합니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (16).png" alt="" width="262"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (18).png" alt="" width="262"><figcaption></figcaption></figure></div>
 
 
 
