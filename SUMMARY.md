@@ -1,31 +1,32 @@
 # Table of contents
 
-* [ClaritySC란](README.md)
+* [What is ClaritySC?](README.md)
 
-## 사용자 가이드
+## User Guide
 
-* [로그인 및 종료 방법](undefined/undefined.md)
-* [프로젝트 생성하기](undefined/undefined-1.md)
-* [검증 하기](undefined/undefined-2/README.md)
-  * [Clarity 검증하기](undefined/undefined-2/clarity.md)
-  * [FossID 검증하기](undefined/undefined-2/fossid.md)
-  * [SBOM Import 방법](undefined/undefined-2/sbom-import.md)
+* [How to Log In and Log Out](user-guide/how-to-log-in-and-log-out.md)
+* [How to Create a Project](user-guide/how-to-create-a-project.md)
+* [Verification Process](user-guide/verification-process/README.md)
+  * [How to Verify with Clarity](user-guide/verification-process/how-to-verify-with-clarity.md)
+  * [How to Verify with FossID](user-guide/verification-process/how-to-verify-with-fossid.md)
+  * [How to Verify with ClarityAIR](user-guide/verification-process/how-to-verify-with-clarityair.md)
+  * [SBOM Import Method](user-guide/verification-process/sbom-import-method.md)
 
-## 관리자 가이드
+## MANAGER GUIDE
 
-* [사용자 등록](undefined-1/undefined.md)
-* [\[1Q\] 사용자 역할(Role) 관리](undefined-1/1q-role.md)
-* [정책 관리](undefined-1/undefined-1.md)
-* [프로덕트 관리](undefined-1/undefined-2.md)
-* [검증 보고서 생성 및 다운로드](undefined-1/undefined-3.md)
-* [고지문 작성하기](undefined-1/undefined-4/README.md)
-  * [고지문 작성하기](undefined-1/undefined-4/undefined.md)
-* [SBOM 포맷 추가 및 수정](undefined-1/sbom.md)
-* [알림 기능](undefined-1/undefined-5.md)
-* [환경설정](undefined-1/undefined-6/README.md)
-  * [서버, 서비스 연동 설정](undefined-1/undefined-6/undefined.md)
-  * [식별 규칙 설정](undefined-1/undefined-6/undefined-1.md)
-  * [도구, 언어 및 기타 설정](undefined-1/undefined-6/undefined-2.md)
-  * [Nexus Import 설정](undefined-1/undefined-6/nexus-import.md)
-  * [FossID Import 설정](undefined-1/undefined-6/fossid-import.md)
-  * [NOTICE HEADER 설정](undefined-1/undefined-6/notice-header.md)
+* [User Registration](manager-guide/user-registration.md)
+* [User Role Management](manager-guide/user-role-management.md)
+* [Policy Management](manager-guide/policy-management.md)
+* [Product Management](manager-guide/product-management.md)
+* [Generating and Downloading SBOM Report](manager-guide/generating-and-downloading-sbom-report.md)
+* [Writing a Notice](manager-guide/writing-a-notice/README.md)
+  * [How to write a notice](manager-guide/writing-a-notice/how-to-write-a-notice.md)
+* [SBOM format management](manager-guide/sbom-format-management.md)
+* [Notification Function](manager-guide/notification-function.md)
+* [Preferences](manager-guide/preferences/README.md)
+  * [Server and Service Integration Settings](manager-guide/preferences/server-and-service-integration-settings.md)
+  * [Identification Rule Settings](manager-guide/preferences/identification-rule-settings.md)
+  * [Tool, Locale , and Other Settings](manager-guide/preferences/tool-locale-and-other-settings.md)
+  * [Nexus Import Settings](manager-guide/preferences/nexus-import-settings.md)
+  * [FossID Import Settings](manager-guide/preferences/fossid-import-settings.md)
+  * [NOTICE HEADER Settings](manager-guide/preferences/notice-header-settings.md)
